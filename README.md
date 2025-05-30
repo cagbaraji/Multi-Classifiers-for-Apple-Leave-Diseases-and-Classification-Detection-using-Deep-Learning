@@ -1,1 +1,1 @@
-# Multi-Classifiers-for-Apple-Leave-Diseases-and-Classification-Detection-using-Deep-Learning
+# Multi-Classifiers-for-Apple-Leave-Diseases-Detection-and-Classification-using-Deep-Learning
